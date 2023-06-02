@@ -1,0 +1,3 @@
+[submodule "all_codes/django"]
+	path = all_codes/django
+	url = https://github.com/jklama/all_files.git
